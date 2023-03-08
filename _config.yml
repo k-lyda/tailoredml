@@ -50,3 +50,4 @@ exclude:
   - tailwind.config.js
   - .gitignore
   - vendor
+  - bin
