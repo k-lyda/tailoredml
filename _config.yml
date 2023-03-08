@@ -8,8 +8,8 @@ permalink: pretty
 
 plugins:
   - jekyll-feed
-  - jekyll-postcss
   - jekyll-soopr-seo-tag
+  - jekyll-postcss-v2
   - jekyll-sitemap
   - jekyll-minifier
 
