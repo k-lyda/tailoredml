@@ -4,6 +4,20 @@ title: About
 permalink: /about
 ---
 
-Hi, Write an awesome description about your blog here.  
-Feel free to make it a bit more interesting by adding a picture or two.  
-Only limit here is your creativity and imagination. Unleash them with full force.  
+Hi, I'm Konrad.
+
+I want to show you how to create tailored Machine Learning Solutions.
+
+Solutions tailored to **your** needs.
+
+On this blog you can read about:
+- applied machine Learning
+- MLOps - Machine Learning Operationalization
+- Productionization of data solutions
+- ML Tools
+- Python
+
+If you need anything, just catch me via mail: konrad [at] tailored.ml
+
+Have a lovely day!
+Konrad
