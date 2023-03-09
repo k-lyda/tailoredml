@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  How To Merge Jupyter Notebooks in Git Repo Without a Headache?
-categories: machine-learning jupyter notebooks repo
+categories: [machine-learning, jupyter, notebooks, repo]
 date:   2022-01-01 20:34:00 +0200
 author: Konrad
 ---
