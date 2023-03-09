@@ -289,14 +289,14 @@ $ git mergetool --tool=nbdime biutiful\_notebook.ipynb
 [6]:	https://drivendata.github.io/cookiecutter-data-science/#directory-structure
 [7]:	https://www.sublimemerge.com/
 
-[image-1]:	/assets/img/posts/1*zR0QF6gKUlQkvWGRb5KxAg.jpeg
-[image-2]:	/assets/img/posts/1*HuZof7bSLZbWmOaDKrivDw.png
-[image-3]:	/assets/img/posts/1*dQ3RGvWCeYuvTd5-Q3R-qQ.png
-[image-4]:	/assets/img/posts/1*PU5feR0HqaVEqA-Rn2f5qQ.png
-[image-5]:	/assets/img/posts/1*G6Q9U758Yd9vVmZ8ff67tA.png
-[image-6]:	/assets/img/posts/1*PLRNw9UczCUJMGpIh1fdyw.png
-[image-7]:	/assets/img/posts/1*8CbVS5T5M7c99gTCHRk08A.png
-[image-8]:	/assets/img/posts/1*KQWXcO2MUR-uHn6zUM7vww.png
-[image-9]:	/assets/img/posts/1*-FV1NnORtUA17DyZZw0YZg.png
-[image-10]:	/assets/img/posts/1*_lUk1B-phnNOM6QR7hoEzQ.png
-[image-11]:	/assets/img/posts/1*ayW5nfEdjmRm5WwN5xI8sQ.png
+[image-1]:	/assets/image/posts/1*zR0QF6gKUlQkvWGRb5KxAg.jpeg
+[image-2]:	/assets/image/posts/1*HuZof7bSLZbWmOaDKrivDw.png
+[image-3]:	/assets/image/posts/1*dQ3RGvWCeYuvTd5-Q3R-qQ.png
+[image-4]:	/assets/image/posts/1*PU5feR0HqaVEqA-Rn2f5qQ.png
+[image-5]:	/assets/image/posts/1*G6Q9U758Yd9vVmZ8ff67tA.png
+[image-6]:	/assets/image/posts/1*PLRNw9UczCUJMGpIh1fdyw.png
+[image-7]:	/assets/image/posts/1*8CbVS5T5M7c99gTCHRk08A.png
+[image-8]:	/assets/image/posts/1*KQWXcO2MUR-uHn6zUM7vww.png
+[image-9]:	/assets/image/posts/1*-FV1NnORtUA17DyZZw0YZg.png
+[image-10]:	/assets/image/posts/1*_lUk1B-phnNOM6QR7hoEzQ.png
+[image-11]:	/assets/image/posts/1*ayW5nfEdjmRm5WwN5xI8sQ.png
